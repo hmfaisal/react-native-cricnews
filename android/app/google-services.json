@@ -1,0 +1,391 @@
+{
+  "project_info": {
+    "project_number": "1072952038558",
+    "firebase_url": "https://android-232514.firebaseio.com",
+    "project_id": "android-232514",
+    "storage_bucket": "android-232514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072952038558:android:7ad2de70b6764ff1",
+        "android_client_info": {
+          "package_name": "com.afgcric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEb5S08nbOxzf5xLlsQopbWOUkkMEYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072952038558:android:c41e708197acbf60",
+        "android_client_info": {
+          "package_name": "com.auscric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEb5S08nbOxzf5xLlsQopbWOUkkMEYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072952038558:android:90a6d6bb743b5c7e",
+        "android_client_info": {
+          "package_name": "com.bancric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEb5S08nbOxzf5xLlsQopbWOUkkMEYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072952038558:android:d4e62e3d2ca25c0f",
+        "android_client_info": {
+          "package_name": "com.cricnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEb5S08nbOxzf5xLlsQopbWOUkkMEYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3939375362961071~6269368723"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072952038558:android:87453b1d36d03777",
+        "android_client_info": {
+          "package_name": "com.emonews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEb5S08nbOxzf5xLlsQopbWOUkkMEYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072952038558:android:98b4869af099907f",
+        "android_client_info": {
+          "package_name": "com.engcric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEb5S08nbOxzf5xLlsQopbWOUkkMEYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072952038558:android:e8441f1864b24d88",
+        "android_client_info": {
+          "package_name": "com.icccricket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEb5S08nbOxzf5xLlsQopbWOUkkMEYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072952038558:android:a634ab14d3c340dd",
+        "android_client_info": {
+          "package_name": "com.indcric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEb5S08nbOxzf5xLlsQopbWOUkkMEYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072952038558:android:59b2d2be510c0266",
+        "android_client_info": {
+          "package_name": "com.nzcric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEb5S08nbOxzf5xLlsQopbWOUkkMEYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072952038558:android:c9d24732c7970b34",
+        "android_client_info": {
+          "package_name": "com.pakcric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEb5S08nbOxzf5xLlsQopbWOUkkMEYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072952038558:android:9bdd1e8497ee7105",
+        "android_client_info": {
+          "package_name": "com.sacricket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEb5S08nbOxzf5xLlsQopbWOUkkMEYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3939375362961071~7004722125"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072952038558:android:8dfc01ed0de46d94",
+        "android_client_info": {
+          "package_name": "com.slcricket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEb5S08nbOxzf5xLlsQopbWOUkkMEYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3939375362961071~3456359358"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072952038558:android:9f0cd8b037db508e",
+        "android_client_info": {
+          "package_name": "com.wicric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEb5S08nbOxzf5xLlsQopbWOUkkMEYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

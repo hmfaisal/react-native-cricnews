@@ -1,0 +1,966 @@
+{
+    "APP":{
+        "NAME":{
+            "TITLE": "ICC Cricket WC",
+            "FIXTURES": "Fixtures",
+            "STANDINGS": "Standings",
+            "RESULTS": "Results",
+            "NEWS": "News",
+            "TWEETS": "Tweets",
+            "SCORE": "Scores",
+            "LIVESCORE": "Live Score",
+            "HIGHLIGHTS": "Highlights",
+            "LIVESTREAM": "Live Stream",
+            "MATCHES": "Matches"
+        },
+        "URL":{
+            "LIVE_SCORE": "https://www.scorespro.com/rss2/live-cricket.xml"
+        },
+        "STREAMS":{
+            "NAME":{
+                "TITLE":"Live Stream",
+                "PLAY":"Stream"
+            },
+            "SOURCE":[
+                {
+                    "NAME":"Server 1",
+                    "SUB":"Maasranga TV",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l783FJ3ZMwuV-wSgsBNAwhIe4Cvla13NrlzTYw=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=US4ywT0Dszg&t=41s"
+                },
+                {
+                    "NAME":"Server 2",
+                    "SUB":"24/7 Live",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l782MEESVszXiPvPOzlZrHu_Q9aHu6s9dIxp1w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=E7P19s7Cvgg"
+                },
+                {
+                    "NAME":"Server 3",
+                    "SUB":"PTV Sports YT",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l780to31uDCXL23PPTNQf_7TKWl5uSdfjhHmgw=s288-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=VOh3lrc5ulQ"
+                },
+                {
+                    "NAME":"Server 4",
+                    "SUB":"RabbitholeBd Sports",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l7_PPtkxUPLP0gopKAsB7xOuGws3NyKNfcxxFQ=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=s-B1m8piY-s&list=UUNU0Vv6U1xZS82cIQrgDeqw&index=4"
+                },
+                {
+                    "NAME":"Server 5",
+                    "SUB":"PTV Sports",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l780to31uDCXL23PPTNQf_7TKWl5uSdfjhHmgw=s288-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://sports.ptv.com.pk/public/sportslive"
+                }
+            ]
+        }
+    },
+    "HOME": {
+        "NAME":{
+            "TITLE": "Home"
+        },
+        "URL":{
+            "STANDINGS": "https://www.cricketworldcup.com/standings"
+        },
+        "NEWS":[
+            {
+                "NAME":"Cricinfo",
+                "URL":"http://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+            },
+            {
+                "NAME":"BBC",
+                "URL":"http://feeds.bbci.co.uk/sport/cricket/rss.xml"
+            },
+            {
+                "NAME":"ESPN",
+                "URL":"http://www.espn.co.uk/espn/rss/cricket/newsl"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://www.icc-cpi.int/RSSFeeds/News_EN.xml"
+            },
+            {
+                "NAME":"Google",
+                "URL":"https://news.google.com/rss/search?q=icccricket&hl=en-US&gl=US&ceid=US:en"
+            }
+        ],
+        "TWEETS":[
+            {
+                "NAME":"CWC19",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC_CWCLive"
+            },
+            {
+                "NAME":"Cricinfo",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ESPNcricinfo"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC"
+            },
+            {
+                "NAME":"CWC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=cricketworldcup"
+            },
+            {
+                "NAME":"ICCCvrg",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC_Coverage"
+            }
+            
+        ],
+        "STREAMS":{
+            "NAME":{
+                "TITLE":"Highlights",
+                "PLAY":"Play",
+                "PLAYLIST":"Run Playlist"
+            },
+            "SOURCE":[
+                {
+                    "NAME":"ICC",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=GHpcH5xBC8I&list=UUt2JXOLNxqry7B_4rRZME3Q"
+                },
+                {
+                    "NAME":"ESPN Cricinfo",
+                    "SUB":"Cricinfo World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l7_HA0v4N15REuFF8gFsUSxFrfM3SVUBHNhKkg=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=OHVGFVSJ81A&list=UUujuVKmt_utAQZJghxlRMIQ"
+                },
+                {
+                    "NAME":"Cricbuzz",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l786CweDH-dDTXLiePZqFwObIHWVRmPSBXd5Eg=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=Wk2vX2qtcG0&list=UUSRQXk5yErn4e14vN76upOw"
+                },
+                {
+                    "NAME":"cricket.com.au",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l7-kaEcftnVfi6QLz1hohIuIJtUAOcoLQfFXyA=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=Ci-aYktaxpI&list=UUkBY0aHJP9BwjZLDYxAQrKg"
+                },
+                {
+                    "NAME":"England & Wales Cricket Board",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l7_NH6eibkyvApoCK3W1eHju-79ZsKLGt5h2Ag=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=NYYnED2uOr8&list=UUz1D0n02BR3t51KuBOPmfTQ"
+                },
+                {
+                    "NAME":"Lords Cricket Ground",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l784Z5ge6EXI_NB1g-snW817UVKSrvoR8tRBxg=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=2RQyUSBQVEk&list=UU4dzcboWxiDQokrppUz0ZhA"
+                }
+            ]
+        }
+    },
+    "AFGHANISTAN": {
+        "NAME":{
+            "TITLE": "Afghanistan"
+        },
+        "URL":{
+            "STANDINGS": "https://www.cricketworldcup.com/standings"
+        },
+        "NEWS":[
+            {
+                "NAME":"Cricinfo",
+                "URL":"http://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://www.icc-cpi.int/RSSFeeds/News_EN.xml"
+            },
+            {
+                "NAME":"BBC",
+                "URL":"http://feeds.bbci.co.uk/sport/cricket/rss.xml"
+            },
+            {
+                "NAME":"ESPN",
+                "URL":"http://www.espn.co.uk/espn/rss/cricket/newsl"
+            },
+            {
+                "NAME":"Google",
+                "URL":"https://news.google.com/rss/search?q=icccricket&hl=en-US&gl=US&ceid=US:en"
+            }
+        ],
+        "TWEETS":[
+            {
+                "NAME":"CWC19",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC_CWCLive"
+            },
+            {
+                "NAME":"Cricinfo",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ESPNcricinfo"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC"
+            },
+            {
+                "NAME":"CWC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=cricketworldcup"
+            }
+        ],
+        "STREAMS":{
+            "NAME":{
+                "TITLE":"Highlights",
+                "PLAY":"Play",
+                "PLAYLIST":"Run Playlist"
+            },
+            "SOURCE":[
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.cricketworldcup.com/standings"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                }
+            ]
+        }
+    },
+    "AUSTRALIA": {
+        "NAME":{
+            "TITLE": "Australia"
+        },
+        "URL":{
+            "STANDINGS": "https://www.cricketworldcup.com/standings"
+        },
+        "NEWS":[
+            {
+                "NAME":"Cricinfo",
+                "URL":"http://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://www.icc-cpi.int/RSSFeeds/News_EN.xml"
+            },
+            {
+                "NAME":"BBC",
+                "URL":"http://feeds.bbci.co.uk/sport/cricket/rss.xml"
+            },
+            {
+                "NAME":"ESPN",
+                "URL":"http://www.espn.co.uk/espn/rss/cricket/newsl"
+            },
+            {
+                "NAME":"Google",
+                "URL":"https://news.google.com/rss/search?q=icccricket&hl=en-US&gl=US&ceid=US:en"
+            }
+        ],
+        "TWEETS":[
+            {
+                "NAME":"CWC19",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC_CWCLive"
+            },
+            {
+                "NAME":"Cricinfo",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ESPNcricinfo"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC"
+            },
+            {
+                "NAME":"CWC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=cricketworldcup"
+            }
+        ],
+        "STREAMS":{
+            "NAME":{
+                "TITLE":"Highlights",
+                "PLAY":"Play",
+                "PLAYLIST":"Run Playlist"
+            },
+            "SOURCE":[
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.cricketworldcup.com/standings"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                }
+            ]
+        }
+    },
+    "BANGLADESH": {
+        "NAME":{
+            "TITLE": "Bangladesh"
+        },
+        "URL":{
+            "STANDINGS": "https://www.cricketworldcup.com/standings"
+        },
+        "NEWS":[
+            {
+                "NAME":"Cricinfo",
+                "URL":"http://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://www.icc-cpi.int/RSSFeeds/News_EN.xml"
+            },
+            {
+                "NAME":"BBC",
+                "URL":"http://feeds.bbci.co.uk/sport/cricket/rss.xml"
+            },
+            {
+                "NAME":"ESPN",
+                "URL":"http://www.espn.co.uk/espn/rss/cricket/newsl"
+            },
+            {
+                "NAME":"Google",
+                "URL":"https://news.google.com/rss/search?q=icccricket&hl=en-US&gl=US&ceid=US:en"
+            }
+        ],
+        "TWEETS":[
+            {
+                "NAME":"CWC19",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC_CWCLive"
+            },
+            {
+                "NAME":"Cricinfo",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ESPNcricinfo"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC"
+            },
+            {
+                "NAME":"CWC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=cricketworldcup"
+            }
+        ],
+        "STREAMS":{
+            "NAME":{
+                "TITLE":"Highlights",
+                "PLAY":"Play",
+                "PLAYLIST":"Run Playlist"
+            },
+            "SOURCE":[
+                {
+                    "NAME":"Rabbitholebd Sports",
+                    "SUB":"official You Tube channel of Gtv (Gazi Satellite Television)",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l7_PPtkxUPLP0gopKAsB7xOuGws3NyKNfcxxFQ=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=s-B1m8piY-s&list=TLGG5LIlzxInPO8yNDA1MjAxOQ"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                }
+            ]
+        }
+    },
+    "ENGLAND": {
+        "NAME":{
+            "TITLE": "England"
+        },
+        "URL":{
+            "STANDINGS": "https://www.cricketworldcup.com/standings"
+        },
+        "NEWS":[
+            {
+                "NAME":"Cricinfo",
+                "URL":"http://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://www.icc-cpi.int/RSSFeeds/News_EN.xml"
+            },
+            {
+                "NAME":"BBC",
+                "URL":"http://feeds.bbci.co.uk/sport/cricket/rss.xml"
+            },
+            {
+                "NAME":"ESPN",
+                "URL":"http://www.espn.co.uk/espn/rss/cricket/newsl"
+            },
+            {
+                "NAME":"Google",
+                "URL":"https://news.google.com/rss/search?q=icccricket&hl=en-US&gl=US&ceid=US:en"
+            }
+        ],
+        "TWEETS":[
+            {
+                "NAME":"CWC19",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC_CWCLive"
+            },
+            {
+                "NAME":"Cricinfo",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ESPNcricinfo"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC"
+            },
+            {
+                "NAME":"CWC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=cricketworldcup"
+            }
+        ],
+        "STREAMS":{
+            "NAME":{
+                "TITLE":"Highlights",
+                "PLAY":"Play",
+                "PLAYLIST":"Run Playlist"
+            },
+            "SOURCE":[
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.cricketworldcup.com/standings"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                }
+            ]
+        }
+    },
+    "INDIA": {
+        "NAME":{
+            "TITLE": "India"
+        },
+        "URL":{
+            "STANDINGS": "https://www.cricketworldcup.com/standings"
+        },
+        "NEWS":[
+            {
+                "NAME":"Cricinfo",
+                "URL":"http://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://www.icc-cpi.int/RSSFeeds/News_EN.xml"
+            },
+            {
+                "NAME":"BBC",
+                "URL":"http://feeds.bbci.co.uk/sport/cricket/rss.xml"
+            },
+            {
+                "NAME":"ESPN",
+                "URL":"http://www.espn.co.uk/espn/rss/cricket/newsl"
+            },
+            {
+                "NAME":"Google",
+                "URL":"https://news.google.com/rss/search?q=icccricket&hl=en-US&gl=US&ceid=US:en"
+            }
+        ],
+        "TWEETS":[
+            {
+                "NAME":"CWC19",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC_CWCLive"
+            },
+            {
+                "NAME":"Cricinfo",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ESPNcricinfo"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC"
+            },
+            {
+                "NAME":"CWC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=cricketworldcup"
+            }
+        ],
+        "STREAMS":{
+            "NAME":{
+                "TITLE":"Highlights",
+                "PLAY":"Play",
+                "PLAYLIST":"Run Playlist"
+            },
+            "SOURCE":[
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.cricketworldcup.com/standings"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                }
+            ]
+        }
+    },
+    "NEWZEALAND": {
+        "NAME":{
+            "TITLE": "New Zealand"
+        },
+        "URL":{
+            "STANDINGS": "https://www.cricketworldcup.com/standings"
+        },
+        "NEWS":[
+            {
+                "NAME":"Cricinfo",
+                "URL":"http://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://www.icc-cpi.int/RSSFeeds/News_EN.xml"
+            },
+            {
+                "NAME":"BBC",
+                "URL":"http://feeds.bbci.co.uk/sport/cricket/rss.xml"
+            },
+            {
+                "NAME":"ESPN",
+                "URL":"http://www.espn.co.uk/espn/rss/cricket/newsl"
+            },
+            {
+                "NAME":"Google",
+                "URL":"https://news.google.com/rss/search?q=icccricket&hl=en-US&gl=US&ceid=US:en"
+            }
+        ],
+        "TWEETS":[
+            {
+                "NAME":"CWC19",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC_CWCLive"
+            },
+            {
+                "NAME":"Cricinfo",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ESPNcricinfo"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC"
+            },
+            {
+                "NAME":"CWC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=cricketworldcup"
+            }
+        ],
+        "STREAMS":{
+            "NAME":{
+                "TITLE":"Highlights",
+                "PLAY":"Play",
+                "PLAYLIST":"Run Playlist"
+            },
+            "SOURCE":[
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.cricketworldcup.com/standings"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                }
+            ]
+        }
+    },
+    "PAKISTAN": {
+        "NAME":{
+            "TITLE": "Pakistan"
+        },
+        "URL":{
+            "STANDINGS": "https://www.cricketworldcup.com/standings"
+        },
+        "NEWS":[
+            {
+                "NAME":"Cricinfo",
+                "URL":"http://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://www.icc-cpi.int/RSSFeeds/News_EN.xml"
+            },
+            {
+                "NAME":"BBC",
+                "URL":"http://feeds.bbci.co.uk/sport/cricket/rss.xml"
+            },
+            {
+                "NAME":"ESPN",
+                "URL":"http://www.espn.co.uk/espn/rss/cricket/newsl"
+            },
+            {
+                "NAME":"Google",
+                "URL":"https://news.google.com/rss/search?q=icccricket&hl=en-US&gl=US&ceid=US:en"
+            }
+        ],
+        "TWEETS":[
+            {
+                "NAME":"CWC19",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC_CWCLive"
+            },
+            {
+                "NAME":"Cricinfo",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ESPNcricinfo"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC"
+            },
+            {
+                "NAME":"CWC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=cricketworldcup"
+            }
+        ],
+        "STREAMS":{
+            "NAME":{
+                "TITLE":"Highlights",
+                "PLAY":"Play",
+                "PLAYLIST":"Run Playlist"
+            },
+            "SOURCE":[
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.cricketworldcup.com/standings"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                }
+            ]
+        }
+    },
+    "SOUTHAFRICA": {
+        "NAME":{
+            "TITLE": "South Africa"
+        },
+        "URL":{
+            "STANDINGS": "https://www.cricketworldcup.com/standings"
+        },
+        "NEWS":[
+            {
+                "NAME":"Cricinfo",
+                "URL":"http://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://www.icc-cpi.int/RSSFeeds/News_EN.xml"
+            },
+            {
+                "NAME":"BBC",
+                "URL":"http://feeds.bbci.co.uk/sport/cricket/rss.xml"
+            },
+            {
+                "NAME":"ESPN",
+                "URL":"http://www.espn.co.uk/espn/rss/cricket/newsl"
+            },
+            {
+                "NAME":"Google",
+                "URL":"https://news.google.com/rss/search?q=icccricket&hl=en-US&gl=US&ceid=US:en"
+            }
+        ],
+        "TWEETS":[
+            {
+                "NAME":"CWC19",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC_CWCLive"
+            },
+            {
+                "NAME":"Cricinfo",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ESPNcricinfo"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC"
+            },
+            {
+                "NAME":"CWC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=cricketworldcup"
+            }
+        ],
+        "STREAMS":{
+            "NAME":{
+                "TITLE":"Highlights",
+                "PLAY":"Play",
+                "PLAYLIST":"Run Playlist"
+            },
+            "SOURCE":[
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.cricketworldcup.com/standings"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                }
+            ]
+        }
+    },
+    "SRILANKA": {
+        "NAME":{
+            "TITLE": "Sri Lanka"
+        },
+        "URL":{
+            "STANDINGS": "https://www.cricketworldcup.com/standings"
+        },
+        "NEWS":[
+            {
+                "NAME":"Cricinfo",
+                "URL":"http://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://www.icc-cpi.int/RSSFeeds/News_EN.xml"
+            },
+            {
+                "NAME":"BBC",
+                "URL":"http://feeds.bbci.co.uk/sport/cricket/rss.xml"
+            },
+            {
+                "NAME":"ESPN",
+                "URL":"http://www.espn.co.uk/espn/rss/cricket/newsl"
+            },
+            {
+                "NAME":"Google",
+                "URL":"https://news.google.com/rss/search?q=icccricket&hl=en-US&gl=US&ceid=US:en"
+            }
+        ],
+        "TWEETS":[
+            {
+                "NAME":"CWC19",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC_CWCLive"
+            },
+            {
+                "NAME":"Cricinfo",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ESPNcricinfo"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC"
+            },
+            {
+                "NAME":"CWC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=cricketworldcup"
+            }
+        ],
+        "STREAMS":{
+            "NAME":{
+                "TITLE":"Highlights",
+                "PLAY":"Play",
+                "PLAYLIST":"Run Playlist"
+            },
+            "SOURCE":[
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.cricketworldcup.com/standings"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                }
+            ]
+        }
+    },
+    "WESTINDIES": {
+        "NAME":{
+            "TITLE": "West Indies"
+        },
+        "URL":{
+            "STANDINGS": "https://www.cricketworldcup.com/standings"
+        },
+        "NEWS":[
+            {
+                "NAME":"Cricinfo",
+                "URL":"http://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://www.icc-cpi.int/RSSFeeds/News_EN.xml"
+            },
+            {
+                "NAME":"BBC",
+                "URL":"http://feeds.bbci.co.uk/sport/cricket/rss.xml"
+            },
+            {
+                "NAME":"ESPN",
+                "URL":"http://www.espn.co.uk/espn/rss/cricket/newsl"
+            },
+            {
+                "NAME":"Google",
+                "URL":"https://news.google.com/rss/search?q=icccricket&hl=en-US&gl=US&ceid=US:en"
+            }
+        ],
+        "TWEETS":[
+            {
+                "NAME":"CWC19",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC_CWCLive"
+            },
+            {
+                "NAME":"Cricinfo",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ESPNcricinfo"
+            },
+            {
+                "NAME":"ICC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=ICC"
+            },
+            {
+                "NAME":"CWC",
+                "URL":"https://twitrss.me/twitter_user_to_rss/?user=cricketworldcup"
+            }
+        ],
+        "STREAMS":{
+            "NAME":{
+                "TITLE":"Highlights",
+                "PLAY":"Play",
+                "PLAYLIST":"Run Playlist"
+            },
+            "SOURCE":[
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.cricketworldcup.com/standings"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                },
+                {
+                    "NAME":"Youtube",
+                    "SUB":"ICC Cricket World Cup 2019",
+                    "IMAGE":"https://yt3.ggpht.com/a/AGF-l78P1niI6VBpqzhIEf-4kk9M_Ao-6PHmvzq2-w=s48-mo-c-c0xffffffff-rj-k-no",
+                    "URL":"https://www.youtube.com/watch?v=qoXSGsxZRgc"
+                }
+            ]
+        }
+    }
+}

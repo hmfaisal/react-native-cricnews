@@ -1,0 +1,20 @@
+export const CONFIG_DATA_URL = "https://drive.google.com/uc?export=view&id=1XrEdVPOoHx9eLnueI0R7f-nhxA07q6Ox";
+export const CONFIG_SCHEDULE_URL = "https://drive.google.com/uc?export=view&id=1MePcfAjnyNVOAyY6xFcm5LdOOoFttI_q";
+export const YOUTUBE_API_ID="AIzaSyAtEfALL4XXkZOsZSFga4OhLdXTEiyvsJY";
+export const HOME_TITLE="Home";
+export const AFGHANISTAN_TITLE="Afghanistan";
+export const AUSTRALIA_TITLE="Australia";
+export const BANGLADESH_TITLE="Bangladesh";
+export const ENGLAND_TITLE="England";
+export const INDIA_TITLE="India";
+export const NEWZEALAND_TITLE="NewZealand";
+export const PAKISTAN_TITLE="Pakistan";
+export const SOUTHAFRICA_TITLE="SouthAfrica";
+export const SRILANKA_TITLE="Srilanka";
+export const WESTINDIES_TITLE="WestIndies";
+export const WELCOME_TITLE="Welcome to ICC Cricket";
+export const WELCOME_SUBTITLE="World Cup 2019 live score, live stream, fixtures, standings, most viral cricket news, live tweets";
+export const LOADING_CHECK_TITLE="Please check your internet connection";
+
+export const INTERSTITIAL_ADD_ID="ca-app-pub-3939375362961071/8317125172";
+export const INTERSTITIAL_TEST_ADD_ID="ca-app-pub-3940256099942544/1033173712";
