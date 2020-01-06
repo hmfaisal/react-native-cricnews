@@ -2,15 +2,14 @@
 A react native news app which listed the popular rss news feed from different sources of cricket sports. Technology used: react native,
 redux,css . Implemented only for Android.
 
-## Getting Started
 # Requirements:
 1. node > v8.0.0
 2. npm > v6
 
-#Run:
+# Run:
 react-native run-android 
 
-#Setup In-Details:
+## Setup In-Details:
 # Add signed key to project
 * Place the my-release-key.keystore file under the android/app directory in your project folder.
 * Edit the file ~/.gradle/gradle.properties or android/gradle.properties, and add the following (replace ***** with the correct keystore password, alias and key password):
