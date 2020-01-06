@@ -3,8 +3,6 @@ A react native news app which listed the popular rss news feed from different so
 redux,css . Implemented only for Android.
 
 ## Getting Started
-####
-# Install dependencies
 # Requirements:
 1. node > v8.0.0
 2. npm > v6
@@ -82,7 +80,7 @@ react-native run-android
 	    implementation "com.google.firebase:firebase-ads:16.0.1"
 	}
 ```
-*and add below code in the bottom of same file
+* and add below code in the bottom of same file
 ```
 	apply plugin: 'com.google.gms.google-services'
 	com.google.gms.googleservices.GoogleServicesPlugin.config.disableVersionCheck = true
@@ -139,8 +137,8 @@ react-native run-android
 		/>
 	    );
 ```
-#Change package name in react native
-*modify android/app/BUCK file:
+# Change package name in react native
+* modify android/app/BUCK file:
 ```
 	android_build_config(
     	...
@@ -153,20 +151,20 @@ react-native run-android
 	    ...
 	)
 ```
-*modify android/app/src/main/AndroindManifest.xml file
+* modify android/app/src/main/AndroindManifest.xml file
 ```
 	<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	  package="package_name">
 ```
-*modify android/app/src/main/java/com/ProjectName/MainActivity.java file
+* modify android/app/src/main/java/com/ProjectName/MainActivity.java file
 ```
 	package package_name;
 ```
-*modify android/app/src/main/java/com/ProjectName/MainApplication.java file
+* modify android/app/src/main/java/com/ProjectName/MainApplication.java file
 ```
 	package package_name;
 ```
-*modify android/app/build.gradle file
+* modify android/app/build.gradle file
 ```
 	defaultConfig {
 	    applicationId package_name
@@ -179,4 +177,4 @@ react-native run-android
 * Generated apk found in /android/app/build/outputs/apk/release/apk-release.apk
 
 # Testing the release build of your app
-*react-native run-android --variant=release
+* react-native run-android --variant=release
